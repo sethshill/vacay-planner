@@ -32,7 +32,7 @@
     "request": "^2.87.0",
     "request-promise": "^4.2.2",
     "semantic-ui-react": "^0.80.0",
-    "sequelize": "^4.37.8",
+    "sequelize": "^4.37.9",
     "webpack": "^2.2.1"
   }
 }
